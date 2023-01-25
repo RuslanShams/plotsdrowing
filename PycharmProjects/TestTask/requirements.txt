@@ -1,0 +1,6 @@
+pandas==1.5.2
+numpy==1.24.1
+matplotlib==3.6.3
+jupyterlab==3.5.2
+matplotlib-inline==0.1.6
+PyQt5==5.15.7
